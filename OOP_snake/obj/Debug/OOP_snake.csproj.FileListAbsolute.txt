@@ -1,1 +1,6 @@
 D:\GitProject\OOP_snake\OOP_snake\bin\Debug\OOP_snake.exe.config
+D:\GitProject\OOP_snake\OOP_snake\bin\Debug\OOP_snake.exe
+D:\GitProject\OOP_snake\OOP_snake\bin\Debug\OOP_snake.pdb
+D:\GitProject\OOP_snake\OOP_snake\obj\Debug\OOP_snake.csprojResolveAssemblyReference.cache
+D:\GitProject\OOP_snake\OOP_snake\obj\Debug\OOP_snake.exe
+D:\GitProject\OOP_snake\OOP_snake\obj\Debug\OOP_snake.pdb
