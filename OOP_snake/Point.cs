@@ -12,5 +12,11 @@ namespace OOP_snake
         public int y;
         public char sym;
 
+        public void Draw()
+        {
+            Console.SetCursorPosition(x, y);
+            Console.Write(sym);
+        }
+
     }
 }
